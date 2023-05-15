@@ -1,5 +1,5 @@
 # ML-HyperparameterTuning-ModelSelection
-Hyper Parameter Testing and Best Model Selection using various methods
+Hyper Parameter Testing and Best Model Selection using various methods <br>
 In this code I have looked into, <br>
 	1) how to hyper tune machine learning model parameters <br>
 	2) choosing the best model for given machine learning problem <br> <br>
